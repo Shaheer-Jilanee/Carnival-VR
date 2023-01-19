@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6975BB30-6CDB-E28C-3FFD-CFEFC74DDEA5}") = "Carnival-Games-VR", "Assembly-CSharp-firstpass.csproj", "{4C1C3B9E-04D2-B9E6-F120-9FA9E0B3C279}"
+EndProject
+Project("{6975BB30-6CDB-E28C-3FFD-CFEFC74DDEA5}") = "Carnival-Games-VR", "Assembly-CSharp.csproj", "{F4A7C8E9-4B3B-8F2F-2F13-47F42743B62D}"
+EndProject
+Project("{6975BB30-6CDB-E28C-3FFD-CFEFC74DDEA5}") = "Carnival-Games-VR", "Assembly-CSharp-Editor.csproj", "{045B7DBC-8611-303B-B7D3-DFBAE96BC443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C1C3B9E-04D2-B9E6-F120-9FA9E0B3C279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1C3B9E-04D2-B9E6-F120-9FA9E0B3C279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1C3B9E-04D2-B9E6-F120-9FA9E0B3C279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1C3B9E-04D2-B9E6-F120-9FA9E0B3C279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A7C8E9-4B3B-8F2F-2F13-47F42743B62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A7C8E9-4B3B-8F2F-2F13-47F42743B62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A7C8E9-4B3B-8F2F-2F13-47F42743B62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A7C8E9-4B3B-8F2F-2F13-47F42743B62D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{045B7DBC-8611-303B-B7D3-DFBAE96BC443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045B7DBC-8611-303B-B7D3-DFBAE96BC443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045B7DBC-8611-303B-B7D3-DFBAE96BC443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045B7DBC-8611-303B-B7D3-DFBAE96BC443}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
